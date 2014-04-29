@@ -1,0 +1,5 @@
+/Users/Andre/Projects/Stochastic Agent Modelling/Stochastic_Agent_Model/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/Andre/Projects/Stochastic Agent Modelling/Stochastic_Agent_Model/bin/Debug/Stochastic_Agent_Model.exe.mdb
+/Users/Andre/Projects/Stochastic Agent Modelling/Stochastic_Agent_Model/bin/Debug/Stochastic_Agent_Model.exe
+/Users/Andre/Projects/Stochastic Agent Modelling/Stochastic_Agent_Model/obj/x86/Debug/Stochastic_Agent_Model.exe
+/Users/Andre/Projects/Stochastic Agent Modelling/Stochastic_Agent_Model/obj/x86/Debug/Stochastic_Agent_Model.exe.mdb

@@ -1,0 +1,5 @@
+/Users/Andre/Projects/Stochastic Agent Modelling/Quantix.Simulator/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/Andre/Projects/Stochastic Agent Modelling/Quantix.Simulator/bin/Debug/Quantix.Simulator.dll.mdb
+/Users/Andre/Projects/Stochastic Agent Modelling/Quantix.Simulator/bin/Debug/Quantix.Simulator.dll
+/Users/Andre/Projects/Stochastic Agent Modelling/Quantix.Simulator/obj/Debug/Quantix.Simulator.dll
+/Users/Andre/Projects/Stochastic Agent Modelling/Quantix.Simulator/obj/Debug/Quantix.Simulator.dll.mdb

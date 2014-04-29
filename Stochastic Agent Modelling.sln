@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "Stochastic_Agent_Model", "Stochastic_Agent_Model\Stochastic_Agent_Model.fsproj", "{2B59BFE5-8D16-474D-81CF-3C5AE4D5FDEF}"
+EndProject
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "Quantix.Simulator", "Quantix.Simulator\Quantix.Simulator.fsproj", "{825F4BE1-88A2-48E8-9359-BEA93C1AD3BB}"
+EndProject
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "Quantix.Simulator.Unit_tests", "Quantix.Simulator.Unit_tests\Quantix.Simulator.Unit_tests.fsproj", "{D77BE427-7AD4-47DC-AA81-608E89E7F085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B59BFE5-8D16-474D-81CF-3C5AE4D5FDEF}.Debug|x86.ActiveCfg = Debug|x86
+		{2B59BFE5-8D16-474D-81CF-3C5AE4D5FDEF}.Debug|x86.Build.0 = Debug|x86
+		{2B59BFE5-8D16-474D-81CF-3C5AE4D5FDEF}.Release|x86.ActiveCfg = Release|x86
+		{2B59BFE5-8D16-474D-81CF-3C5AE4D5FDEF}.Release|x86.Build.0 = Release|x86
+		{825F4BE1-88A2-48E8-9359-BEA93C1AD3BB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{825F4BE1-88A2-48E8-9359-BEA93C1AD3BB}.Debug|x86.Build.0 = Debug|Any CPU
+		{825F4BE1-88A2-48E8-9359-BEA93C1AD3BB}.Release|x86.ActiveCfg = Release|Any CPU
+		{825F4BE1-88A2-48E8-9359-BEA93C1AD3BB}.Release|x86.Build.0 = Release|Any CPU
+		{D77BE427-7AD4-47DC-AA81-608E89E7F085}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D77BE427-7AD4-47DC-AA81-608E89E7F085}.Debug|x86.Build.0 = Debug|Any CPU
+		{D77BE427-7AD4-47DC-AA81-608E89E7F085}.Release|x86.ActiveCfg = Release|Any CPU
+		{D77BE427-7AD4-47DC-AA81-608E89E7F085}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Stochastic_Agent_Model\Stochastic_Agent_Model.fsproj
+	EndGlobalSection
+EndGlobal
